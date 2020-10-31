@@ -25,7 +25,7 @@ router.post("/api/burgers", function(req, res) {
       res.json({ id: result.insertId });
     });
   });
-router.put("api/burgers/:id", function(req, res){
+router.put("/api/burgers/:id", function(req, res){
   let condition = "id= " + req.params.id;
 
   console.log("the condition is: ", condition);
