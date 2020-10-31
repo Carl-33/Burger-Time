@@ -4,6 +4,10 @@
   A deployed Heroku app.  Add burgers to the list, then devour them to update the list.
 
   ## Table of Contents
+  * [Link](#link)
+
+  * [Installation](#installation)
+  
   * [Usage](#usage)
   
   * [License](#license)
@@ -12,12 +16,16 @@
   
   * [Questions](#questions)
 
-  ## Usage 
-The app is deployed at: https://gentle-chamber-99204.herokuapp.com/
-   ![Image of Burger](./public/assets/img/Guy.jpg)
+  ## Link
+  The app is deployed here: https://gentle-chamber-99204.herokuapp.com/
 
-   Various table are displayed depending on the selection.  Below is the list of all employees by department: 
-   ![Image of Table](assets/Capture2.JPG)
+  
+  ## Installation
+  To run the app locally, download the Burger-Time files, run the shchema data, and open the app using localhost.
+
+  ## Usage 
+  The app is deployed at: https://gentle-chamber-99204.herokuapp.com/ Add a burger to the list, this updates the database.  Click on the devour button to change the burger's status, and switch it to the list of devoured burgers.
+   ![Image of Burger](./public/assets/img/Burger.jpg)
 
   ## License
   The Unlicense
