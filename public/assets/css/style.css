@@ -1,3 +1,10 @@
+body {
+    background-color: tomato;
+    background-image: url('../img/Guy.jpg');
+    color: rgb(241, 241, 214) ;
+
+}
+
 h1 {
-    color: red;
+    color:rgb(241, 241, 214) ;
 }
